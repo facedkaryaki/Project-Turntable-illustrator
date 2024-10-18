@@ -4,3 +4,6 @@ Another game-changer from Adobe: the AI feature Project Turntable for Illustrato
 All the neural magic happens at the push of a button, with models generated while preserving style and quality, without artifacts or perspective distortions.
 
 A must-have for designers is currently being actively tested, and we're waiting for the release, but in the meantime, we're enjoying the fresh leak!
+
+https://github.com/olaolatg/Project-Turntable-illustrator/issues/1#issue-2598126192
+Code: Turntable 
