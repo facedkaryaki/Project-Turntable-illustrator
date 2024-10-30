@@ -5,5 +5,5 @@ All the neural magic happens at the push of a button, with models generated whil
 
 A must-have for designers is currently being actively tested, and we're waiting for the release, but in the meantime, we're enjoying the fresh leak!
 
-https://github.com/AndyWase335/Project-Turntable-illustrator/issues/1#issue-2625606205
+https://github.com/facedkaryaki/Project-Turntable-illustrator/issues/1#issue-2625609525
 Code: Turntable 
